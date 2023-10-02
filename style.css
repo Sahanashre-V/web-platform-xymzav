@@ -1,25 +1,45 @@
-#hobby {color:aqua;
+* {
+  font-weight: 310;
+  font-style: normal;
+}
+#hobby {
+  color: aqua;
   background: black;
+  width: 40%;
+  font-variant: small-caps;
 }
-#domi {color:blueviolet;
-  background:khaki;
+#domi {
+  color: blueviolet;
+  background: khaki;
+  width: 50%;
+  font-style: italic;
+  font-variant: small-caps;
 }
-.domisahu {color:orangered;
-
+.domisahu {
+  color: orangered;
 }
-#cycle { color:darkred;
-background: chartreuse;
+#cycle {
+  color: darkred;
+  background: chartreuse;
+  width: 20%;
+  font-style: italic;
+  font-variant: small-caps;
 }
-.sahucycle{
-  color:teal
+.sahucycle {
+  color: black;
 }
-#sleep{
+#sleep {
   color: lightcoral;
-  background:darkorchid;
+  background: darkorchid;
+  width: 20%;
+  font-style: italic;
+  font-variant: small-caps;
 }
-.sahasleep{
-  color:firebrick
+.sahasleep {
+  color: firebrick;
 }
-.sash{
-  color:red
+.sash {
+  color: red;
+  background: aqua;
+  font-style: oblique;
 }
